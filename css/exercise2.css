@@ -1,9 +1,77 @@
-h1{
-	color:red;
+body{
+	background-color: blue;
 }
-h2{
-	color:blue;
+#wrapper{
+	background-color: grey;
+	max-width: 90%;
+	margin: 0 auto;
+	padding-top: 4px;
+}
+.s1{
+	background-color: purple;
+	padding: 15px;
+	margin: 10px;
+}
+.s3{
+	background-color: purple;
+	margin: 10px;
+	padding-bottom: 20px;
+}
+.s4{
+	margin: 20px;
+	padding-bottom: 10px;
+}
+.p1{
+	background-color:green;
+	border: 1px solid black;
+	padding: 7px;
+}
+.p2{
+	background-color:green;
+	padding: 7px;
+	margin: 10px;
+}
+.p3{
+	color: red;
+}
+h1{
+	text-align: center;
+}
+.floatright{
+	float: right;
+	margin: 16px;
+}
+.floatleft{
+	float: left;
+	margin: 10px;
 }
 img{
-	width:20%;
+	border: 3px black solid;
+	width: 500px;
+	margin: 6px;
+}
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+h2{
+	padding: 10px;
+	margin: 5px;
+	border-left: 2px solid black;
+}
+.block{
+	float: center;
+	display: block;
+	border: 4px black solid;
+	padding: 5px;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+a{
+	color: red;
+}
+a:hover{
+	font-size: 60px;
 }

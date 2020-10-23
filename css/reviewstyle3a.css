@@ -7,8 +7,14 @@ body{
 	margin:0 auto;
 	background-color:white;
 }
+.flex-container{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
 nav{
-	text-align:center;
+	text-align:right;
+	margin:20px;
 }
 a{
 	color:white;
@@ -16,12 +22,18 @@ a{
 	font-family: 'Roboto', sans-serif;
 	letter-spacing:3px;
 }
+a:hover{
+	color:#025873;
+}
+a:visited{
+	color:black;
+}
 li{
 	background-color:#8A8C4A;
 	margin:10px;
 	padding:10px;
 	text-transform:uppercase;
-	max-width:100px;
+	width:10%;
 }
 ul{
 	list-style:none;

@@ -46,6 +46,30 @@
 	border: 5px solid black;
 	margin: 20px;
 }
+.s9{
+	background-color: #FA6508;
+	padding: 10px;
+	border: 5px solid black;
+	margin: 20px;
+}
+.s10{
+	background-color: #5EB2FF;
+	padding: 10px;
+	border: 5px solid black;
+	margin: 20px;
+}
+.s11{
+	background-color: #FF69FA;
+	padding: 10px;
+	border: 5px solid black;
+	margin: 20px;
+}
+.s12{
+	background-color: #FF6F5C;
+	padding: 10px;
+	border: 5px solid black;
+	margin: 20px;
+}
 h1{
 	size: large;
 	color: purple;
@@ -62,4 +86,7 @@ img{
 	width:70%;
 	border-color:green;
 	border-style:solid;
+}
+.center{
+	text-align:center;
 }

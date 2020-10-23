@@ -1,0 +1,129 @@
+body{
+	background-color:#C8D5F4;
+}
+.thanos{
+	color:#2C2A89;
+	text-align:center;
+	font-size: 50px;
+}
+.welost{
+	color:#CC6400;
+	text-align:center;
+	font-size: 50px;
+}
+.column{
+	float:left;
+	padding:5px;
+}
+.left{
+	width:47%;
+}
+.right{
+	width:45.8%;
+}
+.s1{
+	background-color:#F5ED75;
+	border: solid black 5px;
+	padding: 10px;
+	
+}
+.s2{
+	background-color:#CA82F5;
+	border: solid black 5px;
+	padding: 10px;
+	margin-left: 10px;
+}
+.rejoice{
+	border: solid #DAA520 5px;
+	width: 320px;
+	float:left;
+	margin-right:10px;
+}
+.stark{
+	border: solid #9400D3 5px;
+	width: 324px;
+	float:right;
+	margin-left:10px;
+}
+p{
+	font-weight:bold;
+	font-size:26px;
+}
+.dread{
+	text-align:center;
+}
+.decimation{
+	font-weight:bold;
+	font-size:19px;
+	text-align:center;
+}
+.clearfix{
+  content: "";
+  clear: both;
+  display: block;
+}
+.together{
+	margin-top:50px;
+}
+.natasha{
+	margin-top:40px;
+}
+li{
+	font-size:20px
+}
+.rixty{
+	width:490px;
+	margin-left:35px;
+	border: solid 5px #6163FF;
+}
+.agamatto{
+	width:400px;
+	margin-left:65px;
+	border: solid 5px #FFBC00;
+}
+.time{
+	font-size:20px;
+	font-weight:none;
+	text-align:center;
+}
+.padd{
+	font-size:20px;
+	font-weight:none;
+	text-align:center;
+	padding-bottom:80px;
+}
+.forever{
+	width:570px;
+	margin-left:2px;
+	border: solid 5px #FFBC00;
+}
+.dust{
+	width:500px;
+	margin-left:5px;
+	border: solid 5px #FFBC00;
+	margin-top:10px;
+}
+h1{
+	font-size:40px;
+	margin-bottom:1px;
+	text-align:center;
+	color:#4B0082;
+}
+h2{
+	font-size:20px;
+	margin:10px;
+	text-align:center;
+}
+.hulk{
+	color:#FF0000;
+	margin-top:1px;
+	font-size:70px;
+}
+.hulk1{
+	color:#FF0000;
+	margin-top:5px;
+	margin-bottom:10px;
+}
+.onetogo{
+	margin-top:25px;
+}
